@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Joyce Renee Quilting]]></title>
         <description><![CDATA[Joyce Renee Quilting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joyce-renee-quilting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 21:57:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 21:57:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joyce-renee-quilting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Daily Kos Elections Iowa caucus liveblog thread #12]]></title>
+            <description><![CDATA[<article><h1>Daily Kos Elections Iowa caucus liveblog thread #12</h1><p>Feb 01, 2016 9:37pm PST by David Nir The Iowa caucuses are finally here, and we're liveblogging the first results of the 2016 presidential nominating contests. The caucuses start at 8 PM Eastern sharp (latecomers are not permitted to participate). As results come in, you can consult our guides to how the caucuses work and what to expect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2760c54f27eb1ab5a9dfab2912ba5725113a96c1.jpg"></article>]]></description>
+            <link>http://m.dailykos.com/stories/1478367</link>
+            <guid isPermaLink="false">784d2f81-f13e-4af9-a368-e542dc4a5970</guid>
+            <pubDate>Mon, 15 Feb 2016 21:57:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Access Common iPhone Features Super-Fast with Control Center]]></title>
-            <description><![CDATA[<article><h1>Access Common iPhone Features Super-Fast with Control Center</h1><p>Updated November 23, 2014. Last Updated: Sept. 1, 2013 Control Center is one of the most useful new features in iOS 7. Control Center offers shortcuts to a ton of handy features on your iPhone or iPod touch (and iPad) on the same screen no matter what you're doing on your device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f7ffca759c4bbbeaca456af68c390af299dc85.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Access Common iPhone Features Super-Fast with Control Center</h1><p>Updated November 23, 2014. Last Updated: Sept. 1, 2013 Control Center is one of the most useful new features in iOS 7. Control Center offers shortcuts to a ton of handy features on your iPhone or iPod touch (and iPad) on the same screen no matter what you're doing on your device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/434f804645c326af136ca866342deaa455fa0791.jpg"></article>]]></description>
             <link>http://ipod.about.com/od/UsingiOS7/ss/Using-Control-Center.htm</link>
             <guid isPermaLink="false">343b17cf-89d8-4b5e-a06c-72040ae5831e</guid>
             <pubDate>Mon, 15 Feb 2016 21:56:47 GMT</pubDate>
